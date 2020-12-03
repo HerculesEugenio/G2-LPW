@@ -1,2 +1,2 @@
 # G2-LPW
-Sistema de Catálogo Cursos online
+Sistema de Receitas Online
